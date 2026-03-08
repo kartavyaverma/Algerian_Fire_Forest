@@ -1,0 +1,14 @@
+ipykernel
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+bs4
+flask
+memory_profiler
+streamlit
+scikit-learn
+imblearn
+openpyxl
+statsmodels
